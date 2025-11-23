@@ -1,0 +1,1 @@
+// Ccard content for carouselcard
