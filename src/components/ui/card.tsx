@@ -1,1 +1,1 @@
-// Ccard content for carouselcard
+// Card content for carouselcard
